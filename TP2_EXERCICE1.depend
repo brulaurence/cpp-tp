@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1364710464 source:c:\users\butor\documents\progs\tp2_exercice1\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	"facture.hpp"
+	<stdlib.h>
+
+1364454309 c:\users\butor\documents\progs\tp2_exercice1\facture.hpp
+
